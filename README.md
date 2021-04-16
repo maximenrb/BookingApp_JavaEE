@@ -23,14 +23,6 @@
 - Booking page with booking and virtual transaction
 - Wallet system
 
-### To Do
-- Evaluation
-- Bookmark
-- Java forms verifications
-
-## Bugs
-
-
 ## Instalation
 - Install a MySQL server on your favorite distribution
 - Run the ` airbnbdb.sql ` script, alternately you can create a database named ` airbnbdb ` and set database connection informations in ` WebContent/WEN-INF/resources.xml `. Tables will be created automatically
