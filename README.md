@@ -48,3 +48,11 @@
 - [Amot98](https://github.com/Amot98)
 - [MaximeNrb](https://github.com/maximenrb)
 - [Lekolix](https://github.com/Lekolix)
+
+## License
+
+<img align="left" width= "150" alt="CC Attribution-NonCommercial-NoDerivatives 4.0 International Public License Logo" src="https://raw.githubusercontent.com/maximenrb/BookingApp_JavaEE/master/git_img/by-nc-nd.eu.png">
+
+This project is licensed under the CC Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+
+See the [LICENSE.md](https://github.com/maximenrb/TravelMap/blob/master/LICENSE.md) file for details
