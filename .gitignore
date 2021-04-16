@@ -1,0 +1,7 @@
+.settings/
+.metadata
+.classpath
+.project
+build/
+# Project exclude paths
+/out/

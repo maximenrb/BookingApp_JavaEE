@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BookingApp_JavaEE : Web Exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BookingApp_JavaEE__Web_Exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BookingApp_JavaEE/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BookingApp_JavaEE" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.21" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
