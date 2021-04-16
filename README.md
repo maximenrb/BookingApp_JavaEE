@@ -47,4 +47,4 @@
 
 This project is licensed under the CC Attribution-NonCommercial-NoDerivatives 4.0 International Public License
 
-See the [LICENSE.md](https://github.com/maximenrb/TravelMap/blob/master/LICENSE.md) file for details
+See the [LICENSE.md](https://github.com/maximenrb/BookingApp_JavaEE/blob/master/LICENSE.md) file for details
