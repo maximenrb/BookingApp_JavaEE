@@ -2,6 +2,8 @@
 
 **AirBnB like web application**
 
+Ready to work with IntelliJ, just clone the git
+
 ## Functionality
 ### Done
 - Home page:
