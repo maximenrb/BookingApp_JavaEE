@@ -5,7 +5,6 @@
 Ready to work with IntelliJ, just clone the git
 
 ## Functionality
-### Done
 - Home page:
   - Research accommodations
   - View last offers
@@ -24,6 +23,9 @@ Ready to work with IntelliJ, just clone the git
   - Offer
 - Booking page with booking and virtual transaction
 - Wallet system
+
+### Home Page Preview
+![Home Page Screenshot](https://raw.githubusercontent.com/maximenrb/BookingApp_JavaEE/master/git_img/screencapture-home_page.png)
 
 ## Instalation
 - Install a MySQL server on your favorite distribution
