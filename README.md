@@ -1,4 +1,4 @@
-# Booking web app
+# Booking Web App - Java EE
 
 **AirBnB like web application**
 
